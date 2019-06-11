@@ -1,0 +1,5 @@
+{"id":1,"email":"barak@whitehouse.gov","sabor":"chocolate","tipo":"crema","cantidadKg":"1"}
+{"id":2,"email":"donald@whitehouse.gov","sabor":"dulcedeleche","tipo":"crema","cantidadKg":"2"}
+{"id":3,"email":"vlad@kgb.urs","sabor":"frutilla","tipo":"crema","cantidadKg":"1"}
+{"id":4,"email":"sinfoto@gmail.com","sabor":"chocolate","tipo":"crema","cantidadKg":"3"}
+{"id":5,"email":"madou@gmail.com","sabor":"chocolate","tipo":"agua","cantidadKg":"2"}

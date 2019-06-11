@@ -1,0 +1,6 @@
+{"id":1,"sabor":"chocolate","precio":"95","tipo":"crema","cantidadKg":"27"}
+{"id":2,"sabor":"chocolate","precio":"95","tipo":"agua","cantidadKg":25}
+{"id":3,"sabor":"dulcedeleche","precio":"95","tipo":"agua","cantidadKg":23}
+{"id":4,"sabor":"dulcedeleche","precio":"95","tipo":"crema","cantidadKg":23}
+{"id":5,"sabor":"frutilla","precio":"95","tipo":"agua","cantidadKg":22}
+{"id":6,"sabor":"frutilla","precio":"95","tipo":"crema","cantidadKg":26}
